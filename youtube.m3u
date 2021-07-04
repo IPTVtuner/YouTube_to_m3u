@@ -10,8 +10,7 @@
 #                                  >> https://github.com/benmoose39     #
 #########################################################################
 
-
-#EXTINF:-1 tvg-id="123" tvg-name="News Malayalam" tvg-logo="icons.png" group-title="News", 24 News Malayalam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624547396/ei/5EvUYJOYC_Cb2_gP9JS_yAE/ip/104.43.161.98/id/zcrUCvBD16k.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886213/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBFEMgbfhZtsRME5arCCj8CVsMhvaVhe2Mm1LS0bTXW8CIQDtPRbSkEBC4WYP30pbXtCm899u9Vj6p1isULJTqHL4kQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="Kairali News" tvg-logo="icons.png" group-title="News", Kairali News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624547396/ei/5EvUYJKfJML72_gPqeSCyAQ/ip/104.43.161.98/id/ET5Y3H3Jusc.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNpF8mH5VHwxGB-fyQBWDOfTRnU8CX-vTdw0sGFyf4XQCIQCWSSNHsc4helYRUuxf7WreNbeNf7IkxJVziTqyfeDtuA%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="../logos/Sky News.png" tvg-id="", Sky News
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1 group-title="News" tvg-logo="../logos/24 News Malayalam.png" tvg-id="", 24 News Malayalam
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
