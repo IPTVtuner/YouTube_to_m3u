@@ -56,7 +56,7 @@ with open('../youtube_channel_info.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print(f'#EXTINF:-1 group-title="{grp_title}" tvg-logo="../logos/{ch_name}.png" tvg-id="{tvg_id}", {ch_name}')
+            print(f'#EXTINF:-1 group-title="{grp_title}" tvg-logo="{ch_name}.png" tvg-id="{tvg_id}", {ch_name}')
         else:
             grab(line)
             
