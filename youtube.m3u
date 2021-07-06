@@ -1,1 +1,18 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+#EXTINF:-1 group-title="News" tvg-logo="Sky News.png" tvg-id="", Sky News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1625553105/ei/caTjYPKAJ9PAiwSktbPoCg/ip/40.84.156.74/id/9Auq9mYxFEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNY_jIIZ9qPDvh9C-YKEyVKRBjWXx-BAnMNi7aNlMKeMCIQCaGRWdaz4pY1EJfXy32YD9nyf9oKKWG81EImhIIH07DQ%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="24 News Malayalam.png" tvg-id="", 24 News Malayalam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1625553106/ei/cqTjYISWDruX2_gP_deEsAU/ip/40.84.156.74/id/zcrUCvBD16k.3/source/yt_live_broadcast/requiressl/yes/tx/23997970/txs/23997970%2C23997971/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ3bTmBPVWEw7NB8GEhvmAWjazjBegh702VAO4TK2d9jAiEAkYutlvR9y1EY0LtaS-MTAHpOpMgkgOQWM0DgYmPd2tE%3D/file/index.m3u8
+#EXTINF:-1 group-title="Space" tvg-logo="LabPadre.png" tvg-id="", LabPadre
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1625553106/ei/cqTjYIDFJuioir4P-LaW6As/ip/40.84.156.74/id/sTA0GTgFn5E.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgaOXOHj1NBOty6N3t22IVrz3e0Z1Zpfst8tasm8h5Lh8CIQCGYwePMCxpu5FpVIUkVgvUrxMAajwdiroRJf0kVKiY7w%3D%3D/file/index.m3u8
