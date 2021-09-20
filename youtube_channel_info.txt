@@ -4,15 +4,15 @@
 Dummy | News | |
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-Sky_News | News | |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+Bloomberg_Global | News | |
+https://www.youtube.com/watch?v=dp8PhLsUcFE
 
 24_News_Malayalam | News | |
 https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live
 
-LabPadre | Space | |
-https://www.youtube.com/watch?v=sTA0GTgFn5E
+ABC.NEWS | News | |
+https://www.youtube.com/watch?v=w_Ma8oQLmSM
 
-SOME_NEWS_CHANNELS | News | |
-https://www.youtube.com/watch?v=JstrU2QnMY0
+Starbase.Live | News | |
+https://www.youtube.com/watch?v=mhJRzQsLZGg
 
