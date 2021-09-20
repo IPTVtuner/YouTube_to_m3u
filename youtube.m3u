@@ -1,1 +1,22 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+#EXTINF:-1 group-title="News" tvg-logo="Dummy.png" tvg-id="", Dummy
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632157648/ei/cGtIYcGUA7-WsfIPyomcaA/ip/20.106.73.243/id/9Auq9mYxFEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALiQoEcholGovxoDRrNSyMugiQk8EoUU-6-NlxSNtzhfAiAW5G6glajZhTClNIKzFkfBqgD8HaozrgW1eTmEGjWgLw%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="Bloomberg_Global.png" tvg-id="", Bloomberg_Global
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632157648/ei/cGtIYaXNNceCkgao15_gCQ/ip/20.106.73.243/id/dp8PhLsUcFE.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKiEk4oVcIIzZJbkDSecwCX_WpwbxFh6S8r7b1OvZSUUCIQDdoJLNFwLW6wnL4hIOgsFX9sGjU8MftEo5U6nZQdqpHA%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="24_News_Malayalam.png" tvg-id="", 24_News_Malayalam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632157649/ei/cWtIYdiaGpCfkwaEh6YI/ip/20.106.73.243/id/zcrUCvBD16k.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHDQRId9BEVI2IN4q0Cqv3A6taw7EwbQFlKltHpPsDNcCIFib8DQ0X-MhcweuyQHG0hseU-bj7w4XsLC7MiU7qyvG/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="ABC.NEWS.png" tvg-id="", ABC.NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632157649/ei/cWtIYZiwN9KBsfIProCvsAE/ip/20.106.73.243/id/w_Ma8oQLmSM.6/source/yt_live_broadcast/requiressl/yes/tx/24078600/txs/24078599%2C24078600%2C24078601%2C24078602%2C24078603%2C24078604%2C24078605/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDXblmGq_QjuAgYlvuHLR8nxxC3JAMAvqltr7L_21rRACIQDALCz5C_ALWhPU_jfe5UPAbBPNVHwND_E7fGNHlzVMkg%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="Starbase.Live.png" tvg-id="", Starbase.Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632157650/ei/cmtIYZWSILeekwbms7f4CA/ip/20.106.73.243/id/mhJRzQsLZGg.2/source/yt_live_broadcast/requiressl/yes/tx/24047101/txs/24047098%2C24047099%2C24047100%2C24047101%2C24047102%2C24047103%2C24047104/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKjXKjKtUQFNoHqlSMLn64pTxGlYRgud44pTIxdQiWJbAiEAqbjVncYgI8Y2d9CTP6-KcUcIpiN8BJ9F6vDK4WemsDs%3D/file/index.m3u8
