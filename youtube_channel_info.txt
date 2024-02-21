@@ -1,7 +1,7 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Moose | Main
+#EXTINF:-1 group-title="News" tvg-logo="Bloomberg.Global.png" tvg-id="", Bloomberg.Global
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 GemeindeTV | Austria  
