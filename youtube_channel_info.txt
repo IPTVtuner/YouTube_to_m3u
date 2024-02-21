@@ -4,13 +4,13 @@
 #EXTINF:-1 group-title="Austria" tvg-logo="" tvg-id="", Gemeinde TV
 https://www.youtube.com/watch?v=3IgHa6SSLXw
 
-OE24TV | Austria
+OE24TV | Austria  |
 https://www.youtube.com/watch?v=zinF90PvBhk
 
-Rhodes1 | Livecam
+Rhodes1 | Livecam  |
 https://www.youtube.com/watch?v=BM7QefFNY7c
 
-Rhodes2 | Livecam
+Rhodes2 | Livecam  |
 https://www.youtube.com/watch?v=aXy6DNLm5OA
 
 Rhodes3 | Livecam
