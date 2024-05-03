@@ -15,11 +15,11 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 #EXTINF:-1 group-title="News" tvg-logo="Bloomberg.Global.png" tvg-id="", Bloomberg.Global
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 group-title="News" tvg-logo="24.News.Malayalam.png" tvg-id="", 24.News.Malayalam
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714774362/ei/-gw1ZsWiN7XaybgP57GmiAg/ip/172.183.98.104/id/1wECsnGZcfc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0tNoC4UlLu_FiZDpBCdqqcpjK4CPUsvMpVmfAKne4a6AjYKLbWxK3mj/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOtss06K_I1y_aN1efBoQtH8iAol0UyxTe1RYZqQNJq3AiAi-BLTFXd5DJ2pFnBQfZLfFMbAprzt6OyoccIju7cOlA%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="ABC.NEWS.png" tvg-id="", ABC.NEWS
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 group-title="News" tvg-logo="Starbase.Live.png" tvg-id="", Starbase.Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714774364/ei/_Aw1Zt2XNJ6cybgP8qO3gAc/ip/172.183.98.104/id/mhJRzQsLZGg.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f873kZEyW4pMDBE8JwOKZrJk397fiWaU7cNprW4Iy-LzNMoMh08ZD2u1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALgADfTYf90cFqS2IuMIYWksLjyZzxvF3jK5_s1rc8kmAiEA0NBkJ7iGfijnGPNUELvHmlE0Onf2RBvA4OKmprpsmmQ%3D/file/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="SpaceX.NASA.png" tvg-id="", SpaceX.NASA
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 group-title="Kids" tvg-logo="Live.Disney.png" tvg-id="", Live.Disney
